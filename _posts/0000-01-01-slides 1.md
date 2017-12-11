@@ -1,4 +1,5 @@
-## Rancang Bangun Media Server Cloud Computing Menggunakan Plex Pada Docker Container  <br /> <br /> <br    />
+<!-- .slide: data-background="white" -->
+## Rancang Bangun Media Server Cloud Computing Menggunakan Plex Pada Docker Container  <br /> <br/>
 
 #### Nama : Wahyu Tri Nugroho 
 
